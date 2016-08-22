@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map Open Garden
+#######################################
+
+#######################################
+# Datatypes (KEYWORD3)
+#######################################
+
+OpenGardenNode	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initSensors	KEYWORD2
+sensorPowerON	KEYWORD2
+sensorPowerOFF	KEYWORD2
+readSensors	KEYWORD2
+initRF	KEYWORD2
+sendPackage	KEYWORD2
+nodeWait	KEYWORD2
+
+Payload	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
