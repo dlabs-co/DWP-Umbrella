@@ -2,8 +2,7 @@
  --------------
 The DWP101 is a first version of the program
 
-##Tests code
-// -----
+###Tests code
 
     - DHTtester
     - I2C_LCD_ds3231_v1
