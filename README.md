@@ -7,7 +7,7 @@ Tests
 
 ::
 
-    \* DHTtester
+    \*\ DHTtester
     \* I2C_LCD_ds3231_v1
     \* PH_TESTER
     \* beep
