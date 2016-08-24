@@ -4,7 +4,9 @@ The DWP101 is a first version of the program
 
 Tests
 -----
+
 ::
+
     * DHTtester
     * I2C_LCD_ds3231_v1
     * PH_TESTER
