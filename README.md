@@ -1,10 +1,10 @@
 #DWP-Umbrella
  --------------
-The DWP101 is a first version of the program
+The **DWP101** is a first version of the program
 
 ###Tests code
 
-    ..* DHTtester
+    - DHTtester
     - I2C_LCD_ds3231_v1
     - PH_TESTER
     - beep
