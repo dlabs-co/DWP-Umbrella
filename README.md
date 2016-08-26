@@ -2,14 +2,15 @@
 <p align="center">
 <img src="https://github.com/dlabs-co/DWP-Umbrella/blob/master/media/umbrella2.png" width="150">
 </p>
-<p>
-<H1 align="center">
+
+<p><H2 align="center">
 DWP-Umbrella
-</H1>
-</p>
+</H2></p>
+========================
 <br>
 The **DWP101** is a first version of program, the rest of files are a tests of parts.
 <br><br>
+
 ###Tests code
 
     - DHTtester
