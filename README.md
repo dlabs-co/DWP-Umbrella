@@ -1,11 +1,15 @@
 
 <p align="center">
-<img src="https://github.com/dlabs-co/DWP-Umbrella/blob/master/media/umbrella2.png" align="middle" width="150">
+<img src="https://github.com/dlabs-co/DWP-Umbrella/blob/master/media/umbrella2.png" width="150">
 </p>
-#DWP-Umbrella
-
+<p>
+<H1 align="center">
+DWP-Umbrella
+</H1>
+</p>
+<br>
 The **DWP101** is a first version of program, the rest of files are a tests of parts.
-
+<br><br>
 ###Tests code
 
     - DHTtester
