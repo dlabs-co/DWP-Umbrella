@@ -3,7 +3,6 @@
 #include <Wire.h>
 #include <FaBoLCD_PCF8574.h>
 
-#define PINTEMP A7
 
 // initialize the library
 FaBoLCD_PCF8574 lcd;
@@ -22,7 +21,8 @@ void loop() {
   // print the number of seconds since reset:
   lcd.print("           ");
   lcd.setCursor(0, 1);
-  lcd.print(analogRead(PINTEMP));
+  lcd.print("CierzScience");
+  lcd.print("Lugerh");
   delay(1000);
 }
 
